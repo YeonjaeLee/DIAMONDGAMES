@@ -4,3 +4,9 @@ C:\Users\User\leeyeonjae\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSu
 C:\Users\User\leeyeonjae\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.csproj.CoreCompileInputs.cache
 C:\Users\User\leeyeonjae\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.exe
 C:\Users\User\leeyeonjae\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.pdb
+C:\Users\User\leeyeonjae\작업\Algorithms\LeetCode\1_TwoSum\1_TwoSum\bin\Debug\1_TwoSum.exe
+C:\Users\User\leeyeonjae\작업\Algorithms\LeetCode\1_TwoSum\1_TwoSum\bin\Debug\1_TwoSum.pdb
+C:\Users\User\leeyeonjae\작업\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.csprojResolveAssemblyReference.cache
+C:\Users\User\leeyeonjae\작업\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\User\leeyeonjae\작업\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.exe
+C:\Users\User\leeyeonjae\작업\Algorithms\LeetCode\1_TwoSum\1_TwoSum\obj\Debug\1_TwoSum.pdb
